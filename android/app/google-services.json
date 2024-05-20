@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705835076984",
+    "project_id": "baitap-9024f",
+    "storage_bucket": "baitap-9024f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705835076984:android:19d9475c5d342a935f8c8d",
+        "android_client_info": {
+          "package_name": "com.myapp_lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyWIlHAYtDD--zeb-DTykRKSxubHyqDtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
